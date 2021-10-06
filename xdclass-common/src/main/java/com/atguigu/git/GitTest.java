@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("push test ");
         System.out.println("PC test ");
         System.out.println("mayun test ");
+        System.out.println("mayun111 test ");
     }
 }
